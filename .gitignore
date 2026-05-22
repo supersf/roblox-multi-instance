@@ -1,0 +1,18 @@
+# Sysinternals Handle — downloaded automatically on first run, not redistributable
+handle_tool/
+*.zip
+
+# Unrelated subprojects in this working directory
+ArenaShooter/
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# PowerShell editor temp
+*.ps1xml.bak
+
+# IDE
+.vscode/
+.idea/
