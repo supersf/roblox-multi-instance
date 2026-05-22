@@ -1,4 +1,3 @@
-﻿@echo off
-chcp 65001 >nul
-title Roblox 多開解鎖器
+@echo off
+title Roblox Multi-Instance Unlocker
 powershell -NoProfile -File "%~dp0RobloxUnlock.ps1"

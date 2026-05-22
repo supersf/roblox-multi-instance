@@ -39,9 +39,16 @@ If you prefer to download it yourself (e.g. offline machine), grab the zip from 
 
 ## Usage
 
+Two language versions are provided:
+
+- `RobloxUnlock.bat` — English (default)
+- `RobloxUnlock.zh.bat` — Traditional Chinese (繁體中文)
+
+Both do exactly the same thing — pick whichever you prefer.
+
 1. **Launch the first Roblox client normally** — open the Roblox website in a browser, log in with account A, and click Play on any game.
 2. **Wait** until the first Roblox window is fully loaded (either in-game or at the menu).
-3. **Double-click `RobloxUnlock.bat`** and accept the UAC elevation prompt.
+3. **Double-click `RobloxUnlock.bat`** (or `RobloxUnlock.zh.bat`) and accept the UAC elevation prompt.
 4. You should see the green message:
    ```
    [Success] Event has been fully released!

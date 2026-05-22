@@ -1,6 +1,6 @@
 # Roblox 多開解鎖器
 
-**語言：** [English](README.md) | [繁體中文](README.zh-TW.md)
+**語言：** [English](README.md) | [繁體中文](README.zh.md)
 
 一個輕量級的 PowerShell 工具，讓你可以在 Windows 上同時執行多個 Roblox 用戶端，**不需要**修改 Roblox 任何檔案、不需要注入 DLL、也不會接觸遊戲本體。
 
@@ -39,9 +39,16 @@ Roblox 使用一個名為 `ROBLOX_singletonEvent` 的具名 Windows 同步物件
 
 ## 使用步驟
 
+本工具提供兩種語言版本：
+
+- `RobloxUnlock.bat` — 英文（預設）
+- `RobloxUnlock.zh.bat` — 繁體中文
+
+兩者功能完全相同，請依自己喜好選擇。
+
 1. **正常啟動第一個 Roblox** — 開啟瀏覽器登入帳號 A，並點選任一遊戲的 Play 按鈕。
 2. **等待**第一個 Roblox 視窗完全載入（進入遊戲內或停留在主畫面均可）。
-3. **雙擊 `RobloxUnlock.bat`** 並同意 UAC 提權要求。
+3. **雙擊 `RobloxUnlock.zh.bat`**（或英文版的 `RobloxUnlock.bat`）並同意 UAC 提權要求。
 4. 看到綠色訊息表示成功：
    ```
    [成功] 事件已徹底釋放！
