@@ -1,6 +1,6 @@
 # Roblox Multi-Instance Unlocker
 
-**Languages:** [English](README.md) | [繁體中文](README.zh-TW.md)
+**Languages:** [English](README.md) | [繁體中文](README.zh.md)
 
 A lightweight PowerShell tool that lets you run multiple Roblox clients simultaneously on Windows, without patching the game, injecting DLLs, or modifying any Roblox files.
 
